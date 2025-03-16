@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crates/tui",
+    "crates/engine", 
+    "crates/macros",
+    "crates/core"]
